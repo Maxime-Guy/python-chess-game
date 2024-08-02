@@ -31,8 +31,8 @@ Welcome to the Chess Game project! This is a Python-based chess game developed u
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/chess-game.git
-   cd chess-game
+   git clone https://github.com/Maxime-Guy/python-chess-game.git
+   cd python-chess-game
    ```
 
 2. **Install Dependencies**:
